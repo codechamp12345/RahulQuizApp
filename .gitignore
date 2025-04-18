@@ -1,0 +1,22 @@
+# Python
+*.pyc
+_pycache_/
+
+# Django
+db.sqlite3
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+!launcher_error.log
+
+# Translations
+*.pot
+
+*.exe
+.env
+*.key
+
+quiz_server.exe

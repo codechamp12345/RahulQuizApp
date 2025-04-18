@@ -1,0 +1,12 @@
+Django==3.2.25
+django-widget-tweaks==1.4.12
+channels==4.0.0
+channels-redis==4.1.0
+redis==4.5.4
+django-cors-headers==3.14.0
+django-allauth==0.54.0
+Pillow==9.5.0
+pytz==2023.3
+PyQt5==5.15.9
+pyinstaller==5.13.0
+pyttsx3==2.90
